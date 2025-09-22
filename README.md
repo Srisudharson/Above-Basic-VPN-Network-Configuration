@@ -75,16 +75,6 @@ This setup is intended for testing and learning about site-to-site VPNs and adva
 
 ---
 
-## 📂 Files
-
-- `R1_Config.txt` – Sample configuration for R1 (IPSec + ACL)
-- `R2_Config.txt` – Sample configuration for R2 (IPSec + ACL)
-- `ISP_Config.txt` – Sample configuration for ISP router
-- `*.pkt` – Packet Tracer project files (if provided)
-- `README.md` – Project documentation
-
----
-
 ## 🧑‍💻 Author
 
 - **Srisudharson**  
