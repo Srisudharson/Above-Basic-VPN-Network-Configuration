@@ -2,7 +2,7 @@
 
 This project demonstrates the implementation of an IPSec VPN tunnel paired with advanced ACL (Access Control List) configurations on Cisco routers. The goal is to securely connect two different LANs over an untrusted WAN (simulated ISP) while applying granular access control between the sites.
 
-![Network Topology](./path/to/your/image.png) <!-- Replace with actual image path if committed. -->
+![Network Topology](./IPSec-VPN.png) <!-- Replace with actual image path if committed. -->
 
 ---
 
